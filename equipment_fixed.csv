@@ -1,0 +1,12 @@
+name,specification,purpose,image_url
+向心力演示器,可调速，长槽和短槽提供不同半径,通过皮带传动改变两轮转速，让小球做圆周运动,https://example.com/equipment/centripetal-demo.jpg
+力传感器,量程0-10N，精度±0.01N,测量重物做圆周运动的向心力,https://example.com/equipment/force-sensor.jpg
+光电传感器,测量挡光时间，计算角速度,测量重物做圆周运动的角速度,https://example.com/equipment/optical-sensor.jpg
+DISLab数据采集器,连接传感器，实时显示和记录数据,实时显示和记录实验数据,https://example.com/equipment/dis-lab.jpg
+电机,转速可调，带动旋转装置,提供旋转动力,https://example.com/equipment/motor.jpg
+旋转臂,可调节长度，固定小球位置,提供圆周运动的半径,https://example.com/equipment/rotating-arm.jpg
+砝码座,可调节位置，固定砝码,提供不同质量组合,https://example.com/equipment/weight-holder.jpg
+砝码,质量已知，可组合使用,提供不同质量,https://example.com/equipment/weights.jpg
+刻度尺,量程0-30cm，精度1mm,测量转动半径、绳长等长度参数,https://example.com/equipment/ruler.jpg
+天平,量程0-200g，精度0.1g,测量重物的质量,https://example.com/equipment/balance.jpg
+秒表,计时精度0.01s,测量转动周期,https://example.com/equipment/stopwatch.jpg
